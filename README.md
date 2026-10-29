@@ -31,8 +31,6 @@
 | [**hr-portal-api**](https://github.com/zkhattak7600/hr-portal-api) | REST API for the HR Portal: JWT auth, BCrypt, employees, leaves, attendance, payroll, photo uploads | ASP.NET Core 8 · EF Core · SQLite |
 
 
-🔴 **Live demo:** [hr-portal-angular.vercel.app](https://hr-portal-angular.vercel.app) · API docs: [hr-portal-api.onrender.com/swagger](https://hr-portal-api.onrender.com/swagger) — click *Try as Admin* / *Try as Employee* on the login page (free server may take ~50s to wake up).
-
 ### 📊 GitHub stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zkhattak7600&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
