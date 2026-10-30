@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zain Khattak</h1>
 <h3 align="center">Frontend Developer (Angular &amp; TypeScript) from Pakistan 🇵🇰</h3>
 
+<p align="center">🌐 <a href="https://zkhattak7600.github.io"><b>Portfolio: zkhattak7600.github.io</b></a></p>
+
 ---
 
 ### 🙋‍♂️ About me
